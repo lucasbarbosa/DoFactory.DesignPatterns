@@ -10,3 +10,4 @@ C:\Lucas.Teixeira.Files\TestsProjects\DesignPatterns\DoFactory.DesignPatterns\01
 C:\Lucas.Teixeira.Files\TestsProjects\DesignPatterns\DoFactory.DesignPatterns\01 - Creational Patterns\DoFactory.Singleton\obj\Debug\netcoreapp3.1\DoFactory.Singleton.dll
 C:\Lucas.Teixeira.Files\TestsProjects\DesignPatterns\DoFactory.DesignPatterns\01 - Creational Patterns\DoFactory.Singleton\obj\Debug\netcoreapp3.1\DoFactory.Singleton.pdb
 C:\Lucas.Teixeira.Files\TestsProjects\DesignPatterns\DoFactory.DesignPatterns\01 - Creational Patterns\DoFactory.Singleton\obj\Debug\netcoreapp3.1\DoFactory.Singleton.genruntimeconfig.cache
+C:\Lucas.Teixeira.Files\TestsProjects\DesignPatterns\DoFactory.DesignPatterns\01 - Creational Patterns\DoFactory.Singleton\obj\Debug\netcoreapp3.1\DoFactory.Singleton.csprojAssemblyReference.cache
