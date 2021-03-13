@@ -10,4 +10,3 @@ C:\Lucas.Teixeira.Files\TestsProjects\DesignPatterns\DoFactory.DesignPatterns\01
 C:\Lucas.Teixeira.Files\TestsProjects\DesignPatterns\DoFactory.DesignPatterns\01 - Creational Patterns\DoFactory.AbstractFactory\obj\Debug\netcoreapp3.1\DoFactory.AbstractFactory.dll
 C:\Lucas.Teixeira.Files\TestsProjects\DesignPatterns\DoFactory.DesignPatterns\01 - Creational Patterns\DoFactory.AbstractFactory\obj\Debug\netcoreapp3.1\DoFactory.AbstractFactory.pdb
 C:\Lucas.Teixeira.Files\TestsProjects\DesignPatterns\DoFactory.DesignPatterns\01 - Creational Patterns\DoFactory.AbstractFactory\obj\Debug\netcoreapp3.1\DoFactory.AbstractFactory.genruntimeconfig.cache
-C:\Lucas.Teixeira.Files\TestsProjects\DesignPatterns\DoFactory.DesignPatterns\01 - Creational Patterns\DoFactory.AbstractFactory\obj\Debug\netcoreapp3.1\DoFactory.AbstractFactory.csprojAssemblyReference.cache
