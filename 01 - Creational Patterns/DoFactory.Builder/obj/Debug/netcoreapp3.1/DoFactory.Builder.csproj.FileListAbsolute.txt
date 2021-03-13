@@ -4,7 +4,6 @@ C:\Lucas.Teixeira.Files\TestsProjects\DesignPatterns\DoFactory.DesignPatterns\01
 C:\Lucas.Teixeira.Files\TestsProjects\DesignPatterns\DoFactory.DesignPatterns\01 - Creational Patterns\DoFactory.Builder\bin\Debug\netcoreapp3.1\DoFactory.Builder.runtimeconfig.dev.json
 C:\Lucas.Teixeira.Files\TestsProjects\DesignPatterns\DoFactory.DesignPatterns\01 - Creational Patterns\DoFactory.Builder\bin\Debug\netcoreapp3.1\DoFactory.Builder.dll
 C:\Lucas.Teixeira.Files\TestsProjects\DesignPatterns\DoFactory.DesignPatterns\01 - Creational Patterns\DoFactory.Builder\bin\Debug\netcoreapp3.1\DoFactory.Builder.pdb
-C:\Lucas.Teixeira.Files\TestsProjects\DesignPatterns\DoFactory.DesignPatterns\01 - Creational Patterns\DoFactory.Builder\obj\Debug\netcoreapp3.1\DoFactory.Builder.csprojAssemblyReference.cache
 C:\Lucas.Teixeira.Files\TestsProjects\DesignPatterns\DoFactory.DesignPatterns\01 - Creational Patterns\DoFactory.Builder\obj\Debug\netcoreapp3.1\DoFactory.Builder.AssemblyInfoInputs.cache
 C:\Lucas.Teixeira.Files\TestsProjects\DesignPatterns\DoFactory.DesignPatterns\01 - Creational Patterns\DoFactory.Builder\obj\Debug\netcoreapp3.1\DoFactory.Builder.AssemblyInfo.cs
 C:\Lucas.Teixeira.Files\TestsProjects\DesignPatterns\DoFactory.DesignPatterns\01 - Creational Patterns\DoFactory.Builder\obj\Debug\netcoreapp3.1\DoFactory.Builder.csproj.CoreCompileInputs.cache
