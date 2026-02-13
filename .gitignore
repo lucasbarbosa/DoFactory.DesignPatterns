@@ -223,3 +223,55 @@ project.lock.json
 #####
 # End of core ignore list, below put you custom 'per project' settings (patterns or path)
 #####
+
+##############################
+# .NET 10 + Tests (Recommended)
+##############################
+
+# Test results
+TestResults/
+**/TestResults/
+
+# Coverage reports (coverlet, reportgenerator)
+coverage/
+coverage.*
+**/coverage/
+**/coverage.*
+
+# BenchmarkDotNet
+BenchmarkDotNet.Artifacts/
+
+# dotnet local tools
+.dotnet/
+tools/
+
+# ASP.NET Core
+appsettings.*.json
+
+# Logs
+logs/
+*.log
+
+# Publish / build output
+**/publish/
+**/out/
+
+# NuGet
+**/packages/
+.nuget/
+.nuget/packages/
+
+# IDEs / Editors
+.vs/
+.vscode/
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
