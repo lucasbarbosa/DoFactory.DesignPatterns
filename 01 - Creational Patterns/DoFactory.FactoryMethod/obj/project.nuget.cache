@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3KWP5GaBJJM9rHRzsseD8UYfa2XNDYV86PkN/s4dO6QODV2IkFDPEwUDe/s87FF5i/EYQTVxCK6xsbA6gBCpDw==",
+  "dgSpecHash": "0rKRBAWftYU=",
   "success": true,
-  "projectFilePath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\DesignPatterns\\DoFactory.DesignPatterns\\01 - Creational Patterns\\DoFactory.FactoryMethod\\DoFactory.FactoryMethod.csproj",
+  "projectFilePath": "D:\\Projects\\Git\\lucasbarbosa\\DoFactory.DesignPatterns\\01 - Creational Patterns\\DoFactory.FactoryMethod\\DoFactory.FactoryMethod.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

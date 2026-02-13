@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JcrMYLhrOi/K1InuD0JaK98KTjP/bbh/dWrz/Z1DwzIwjbTT52caTuyO7SbvpTzqSYK2wsM1hwViZOZ2apleHA==",
+  "dgSpecHash": "rlkOhwHo8GU=",
   "success": true,
-  "projectFilePath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\DesignPatterns\\DoFactory.DesignPatterns\\01 - Creational Patterns\\DoFactory.Singleton\\DoFactory.Singleton.csproj",
+  "projectFilePath": "D:\\Projects\\Git\\lucasbarbosa\\DoFactory.DesignPatterns\\01 - Creational Patterns\\DoFactory.Singleton\\DoFactory.Singleton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
